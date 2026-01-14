@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\706695\\source\\repos\\practicegithub\\practicegithub\\practicegithub.csproj": {}
+    "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\706695\\GitHub\\practicegithub\\practicegithub\\practicegithub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\706695\\source\\repos\\practicegithub\\practicegithub\\practicegithub.csproj": {
+    "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\706695\\GitHub\\practicegithub\\practicegithub\\practicegithub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\706695\\source\\repos\\practicegithub\\practicegithub\\practicegithub.csproj",
+        "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\706695\\GitHub\\practicegithub\\practicegithub\\practicegithub.csproj",
         "projectName": "practicegithub",
-        "projectPath": "C:\\Users\\706695\\source\\repos\\practicegithub\\practicegithub\\practicegithub.csproj",
+        "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\706695\\GitHub\\practicegithub\\practicegithub\\practicegithub.csproj",
         "packagesPath": "C:\\Users\\706695\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\706695\\source\\repos\\practicegithub\\practicegithub\\obj\\",
+        "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeOdd\\706695\\GitHub\\practicegithub\\practicegithub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,19 +56,35 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.11, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.11, )"
             }
           },
           "imports": [
